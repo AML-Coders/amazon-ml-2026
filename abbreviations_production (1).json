@@ -1,0 +1,28 @@
+{
+  "business_name": {
+    "inc": "incorporated",
+    "ltd": "limited"
+  },
+  "business_address": {
+    "rd": "road",
+    "dr": "drive",
+    "st": "street",
+    "ave": "avenue",
+    "ln": "lane",
+    "ct": "court",
+    "cir": "circle",
+    "pl": "place",
+    "blvd": "boulevard",
+    "trl": "trail",
+    "hwy": "highway",
+    "ter": "terrace",
+    "pkwy": "parkway",
+    "cv": "cove",
+    "sq": "square",
+    "rdg": "ridge",
+    "tpke": "turnpike",
+    "pt": "point",
+    "ft": "fort",
+    "mt": "mount"
+  }
+}
